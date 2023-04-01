@@ -59,3 +59,7 @@ It is a student registration form that stores the user's data in JSONPowerDB. It
 Client: HTML,CSS,Javascript
 Server: JsonPowerDB
 ### Screenshots
+![2](https://user-images.githubusercontent.com/128731078/229299723-6ff22db0-8cfc-4954-8488-fa645fdf69f3.png)
+![1](https://user-images.githubusercontent.com/128731078/229299763-158a5e57-9f89-4c0f-b381-ba9cb99df730.png)
+#### Mobile View
+![3](https://user-images.githubusercontent.com/128731078/229299945-39a2538e-245f-443c-8e10-099f84db4d6b.png)
